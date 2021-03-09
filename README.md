@@ -15,6 +15,8 @@ O trabalho foi programado em 3 etapas:
 2 - Inserir todos os outros planetas sem movimento;
 3 - Por fim, colocar todos os movimentos e um decaimento de iluminação com a distância
 
-![Etapa1](Images/sistema.png "Etapa 1");
-![Etapa2](Images/sistema2.png "Etapa 2");
-![Etapa3](Images/sistema3.png "Etapa 3");
+![Etapa1](Images/sitema.png "Etapa 1");
+
+![Etapa2](Images/sistema1.png "Etapa 2");
+
+![Etapa3](Images/sistema2.png "Etapa 3");
